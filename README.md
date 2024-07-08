@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Danielprofessorrobotica
-- 👀 I’m interested in conhecimento...
+- 👋 Hi, I’m @Danielprofessorrobotica boas vindas
+- 👀 I’m interested in conhecimento...[Alura](https://www.alura.com.br)
 - 🌱 I’m currently learning ...programação
 - 💞️ I’m looking to collaborate on ...com o aprendizado dos meus alunos
 - 📫 How to reach me ...danielcarriello@prof.educacao.sp.gov.br
